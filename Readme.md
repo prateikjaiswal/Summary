@@ -67,12 +67,12 @@ https://play.google.com/store/apps/details?id=com.ttb.quiz [Quiz]
 
 https://play.google.com/store/apps/details?id=com.binance.dev&hl=en_US [UI/UX]
 
-## HTML5 Games
+### HTML5 Games
 http://gameofbombs.com/landing
 
 http://or.paleozoic.com/
 
-https://codecanyon.net/item/crypto-casino-slot-machine-online-gambling-platform-laravel-5-application/23088602(PHP Application for Games)
+https://codecanyon.net/item/crypto-casino-slot-machine-online-gambling-platform-laravel-5-application/23088602
 
 ## Skills and Experience
 
