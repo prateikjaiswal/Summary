@@ -55,7 +55,7 @@ https://reconnect.eu[Django] [PostgreSQL]  [AWS]
 
 http://www.districtconsulting.com [Django] [Angular]
 
-###VueJS
+### VueJS
 https://thecoolclub.co [Nuxt.js] [Vue.js] [Webpack] [Netlify]
 
 https://www.food.com/ [Vue.js 2.5.1] 
@@ -66,14 +66,14 @@ https://web-ripple-d7fdb.firebaseapp.com [Vue + Vuetify + Vuex + Firebase + D3.j
 
 Following is the skills and experience that I have.
 
-➤For Frontend:
+### ### ➤For Frontend:
 ✓ReactJS/AngularJS/VueJS/HTML5 APIs/CSS3/Bootstrap/Semantic UI/MUI.
 
 ✓Building web pages and components like datatable,multi-step forms,timeline,toggle-switch.
 
 ✓Extensive experience in Mockup(PSD/MOCKUP/FIGMA/XD) to actual code.
 
-➤For Backend:
+### ➤For Backend:
 ✓Payment Integration APIs like Stripe,Paypal
 
 ✓Websocket,WebRTC
@@ -84,7 +84,7 @@ Following is the skills and experience that I have.
 
 ✓Database & Query Languages like Mysql,MongoDB,Redis
 
-➤NodeJS & Javscript：
+### ➤NodeJS & Javscript：
 ✓Sequelize, express-sequelize for orm support for mysql.
 
 ✓Express-fileupload for moving files and recieving files
@@ -95,14 +95,14 @@ Following is the skills and experience that I have.
 
 ✓Chrome Extension Development
 
-➤Wordpress：
+### ➤Wordpress：
 ✓hooks, shortcodes, custom post types of wordpress.
 
 ✓plugins like WPML, gravity forms, elementor, woocommerce.
 
 ✓Themes like Flatsome,Divi
 
-➤Python：
+### ➤Python：
 ✓Automation using Python's Selenium and Webdriver and JEST,Cypress to test.
 
 ✓Scraped many websites using Selenium/WebDriver(python),ScrapeStorm.
