@@ -2,7 +2,7 @@
 
 ## Past Work
 
-## ## Wordpress
+### Wordpress
 https://www.kickervideo.com  [Wordpress 5.2.2] [jquery&Modernizer] [United States] [I did front-end] 
 
 https://www.bluenilelivery.com [Wordpress 5.1.1] [full-service limousine company and Boston airport limo service]
@@ -10,52 +10,52 @@ https://www.bluenilelivery.com [Wordpress 5.1.1] [full-service limousine company
 https://www.bluenilelivery.com [Wordpress 5.1.1] [full-service limousine company and Boston airport limo service]
 
 
-## ## Laravel
+### Laravel
 https://carkeysexpress.com/ [Laravel] [Slick-javascript library] [LiveChat-ZendDesk Chat]
 
 https://greekhouse.org/ [Laravel] [Select2] [jQueryUI] [Nginx]
 
-## ## Shopify
+### Shopify
 https://chocolatas.com/[Shopify Ecommerce] 
 
 https://www.korendy.com.tr/[Shopify CloudFlare]
 
-## ## Ruby on Rails
+### Ruby on Rails
 https://4stay.com/ [Ruby on Rails] [AngularJS 1.6.5] 
 
 https://www.tistorage.com/ [Ruby on Rails] [React 15.4.1] 
 
-## ## Magento
+### Magento
 http://www.khadiindia.in [Magento ecommerce]
 
 http://www.housethisindia.com [Magento ecommerce website]
 
-## ## Yii
+### Yii
 https://www.alc.profiledigitaldev.co.uk [Yii2] [Auto Lease website developed with Yii2]
 
-## ## React
+### React
 https://github.com/WillieRivera/MedicalTour [MERN] [Medical Website]
 
 https://onegivv.com [MERN] [Non-profit website]
 
-## ## Angular
+### Angular
 https://github.com/WillieRivera/Motion [MEAN] [Video Analysis website with MEAN stack]
 
 https://www.findrooms.it[AngularJS 1.4.8][CodeIgniter]
 
-## ## ASP.NET
+### ASP.NET
 https://github.com/WillieRivera/ASP.NET-HMS [ASP.NET] [HMS with ASP.NET]
 
 http://securance.in/ [ASP.NET]
 
-## ## Python
+### Python
 https://github.com/WillieRivera/StockAI [Stock Prediction Application]
 
 https://reconnect.eu[Django] [PostgreSQL]  [AWS]
 
 http://www.districtconsulting.com [Django] [Angular]
 
-## ##VueJS
+###VueJS
 https://thecoolclub.co [Nuxt.js] [Vue.js] [Webpack] [Netlify]
 
 https://www.food.com/ [Vue.js 2.5.1] 
