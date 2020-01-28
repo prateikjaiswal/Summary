@@ -62,18 +62,30 @@ https://www.food.com/ [Vue.js 2.5.1]
 
 https://web-ripple-d7fdb.firebaseapp.com [Vue + Vuetify + Vuex + Firebase + D3.js]
 
+### Android
+https://play.google.com/store/apps/details?id=com.ttb.quiz [Quiz]
+
+https://play.google.com/store/apps/details?id=com.binance.dev&hl=en_US [UI/UX]
+
+## HTML5 Games
+http://gameofbombs.com/landing
+
+http://or.paleozoic.com/
+
+https://codecanyon.net/item/crypto-casino-slot-machine-online-gambling-platform-laravel-5-application/23088602(PHP Application for Games)
+
 ## Skills and Experience
 
 Following is the skills and experience that I have.
 
-### ### ➤For Frontend:
+### ➤Frontend:
 ✓ReactJS/AngularJS/VueJS/HTML5 APIs/CSS3/Bootstrap/Semantic UI/MUI.
 
 ✓Building web pages and components like datatable,multi-step forms,timeline,toggle-switch.
 
 ✓Extensive experience in Mockup(PSD/MOCKUP/FIGMA/XD) to actual code.
 
-### ➤For Backend:
+### ➤Backend:
 ✓Payment Integration APIs like Stripe,Paypal
 
 ✓Websocket,WebRTC
