@@ -5,12 +5,10 @@
 ### Wordpress
 https://www.kickervideo.com  [Wordpress 5.2.2] [jquery&Modernizer] [United States] [I did front-end] 
 
-https://www.bluenilelivery.com [Wordpress 5.1.1] [full-service limousine company and Boston airport limo service]
-
 ### Laravel
 https://carkeysexpress.com/ [Laravel] [Slick-javascript library] [LiveChat-ZendDesk Chat]
 
-https://greekhouse.org/ [Laravel] [Select2] [jQueryUI] [Nginx]
+htpps://www.cubizy.com(Laravel Framework)
 
 ### Shopify
 https://kane11.com/(Shopify)
@@ -24,9 +22,11 @@ https://github.com/WillieRivera/MedicalTour [MERN] [Medical Website]
 https://onegivv.com [MERN] [Non-profit website]
 
 ### Angular
+
 https://github.com/WillieRivera/Motion [MEAN] [Video Analysis website with MEAN stack]
 
 ### ASP.NET
+
 https://github.com/WillieRivera/ASP.NET-HMS [ASP.NET] [HMS with ASP.NET]
 
 ### Python
